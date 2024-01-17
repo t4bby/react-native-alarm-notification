@@ -63,5 +63,3 @@ dependencies {
         implementation jscFlavor
     }
 }
-
-apply from: file("../@react-native-community/cli-platform-android/native_modules.gradle"); applyNativeModulesAppBuildGradle(project)
